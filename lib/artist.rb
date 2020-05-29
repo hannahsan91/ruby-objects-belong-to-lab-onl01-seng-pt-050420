@@ -5,5 +5,6 @@ artist.new
   def initialize(name)
     @name = name
   end
-    song.artist.name = "Beyonce"
+    def artist_name
+      name = "Beyonce"
   end

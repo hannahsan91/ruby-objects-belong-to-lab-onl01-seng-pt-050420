@@ -8,3 +8,4 @@ artist.new
     def artist_name
       name = "Beyonce"
   end
+end

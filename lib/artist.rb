@@ -6,6 +6,6 @@ artist.new
     @name = name
   end
     def artist_name
-      name = "Beyonce"
+      @name
   end
 end

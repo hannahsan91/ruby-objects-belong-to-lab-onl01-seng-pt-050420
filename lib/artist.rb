@@ -1,5 +1,5 @@
 class Artist
   def initialize
     @name = name
-    artist.name = "Beyonce"
+    song.artist.name = "Beyonce"
   end
